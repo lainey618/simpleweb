@@ -48,10 +48,6 @@ body {
     border-radius: 35%;
     margin-top: .5em;
     margin-bottom: 0;
-    animation: .5s linear 3s infinite alternate slidein;
-}
-
-img:hover {
     animation: shake 0.5s;
     animation-iteration-count: infinite;
 }
