@@ -21,7 +21,7 @@ body {
 }
 .containerTop {
     width: 100%;
-    height: 25%;
+    min-height: 25%;
     border: 3px solid magenta;
 }
 .container2 {
@@ -29,4 +29,8 @@ body {
     height: 25%;
     border: 3px solid gold;
     padding-left: 2%;
+}
+.thisPic {
+    height: 25%;
+    width: 50%;
 }
