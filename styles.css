@@ -48,7 +48,7 @@ body {
     border-radius: 35%;
     margin-top: .5em;
     margin-bottom: 0;
-    animation: shake 0.5s;
+    animation: shake 1.15s;
     animation-iteration-count: infinite;
 }
 
